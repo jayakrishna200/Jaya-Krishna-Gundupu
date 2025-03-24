@@ -28,5 +28,5 @@ I am a passionate **Full-Stack Developer** with expertise in building **scalable
 ✅ Continuous learner, always exploring new tech.  
 
 ## 🔹 Let’s Connect!  
-🔗 LinkedIn Profile: https://www.linkedin.com/in/gundupu-jaya-krishna/ 
+🔗 LinkedIn Profile: https://www.linkedin.com/in/gundupu-jaya-krishna/ <br/>
 📂 Portfolio Website: https://portfolio-phi-puce-77.vercel.app/
